@@ -37,7 +37,11 @@ To kickstart your crew of AI agents and begin task execution, run this from the 
 ```bash
 poetry run task_manager
 ```
+or
+´´
+poetry run python src/task_manager/main.py
 
+´´
 This command initializes the task_manager Crew, assembling the agents and assigning them tasks as defined in your configuration.
 
 This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
