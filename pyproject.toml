@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "task_manager"
+version = "0.1.0"
+description = "task_manager using crewAI"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.13"
+python-dotenv = "^1.0.0"
+crewai = "0.32.2"
+crewai-tools = "0.3.0"
+translate = "3.6.1"
+httpx = "0.27.0"
+openai = "1.24.0"
+embedchain = "0.1.109"
+
+[tool.poetry.scripts]
+task_manager = "task_manager.main:run"
+train = "task_manager.main:train"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

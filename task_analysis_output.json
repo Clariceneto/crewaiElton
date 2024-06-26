@@ -1,0 +1,15 @@
+{
+    "person_info": {
+        "name": "Maria",
+        "skills": [
+            "Backend"
+        ],
+        "profession": "Desarrollador",
+        "responsibility": "Crear reddit",
+        "skill_level": "Alto",
+        "language": "Español"
+    },
+    "task_description": "crear reddit",
+    "task_analysis": "To create a subreddit on Reddit, Maria can follow these steps:\n1. Sign in to Reddit or create a Reddit account if she doesn't have one.\n2. Click on the \"Create a Community\" button on the Reddit homepage.\n3. Enter the name of the subreddit, choose a title, and write a description.\n4. Select the appropriate settings for the subreddit, including privacy, community type, and content options.\n5. Customize the appearance of the subreddit by adding a banner, icon, and theme.\n6. Invite users to join the subreddit and start posting content.\n\nNecessary Tools for Task Execution:\n1. Internet access to visit Reddit and create an account.\n2. A computer or mobile device to access Reddit's website or app.\n3. Basic knowledge of Reddit's interface and features.\n\nRelated Documents:\n1. Reddit's official guide on creating a subreddit.\n2. Reddit's community guidelines and rules for creating and managing subreddits.\n3. Online tutorials or forums for additional tips and tricks on managing a subreddit.\n\nVerification of Task Understanding:\nMaria, can you please repeat the main steps involved in creating a subreddit on Reddit?",
+    "comprehension_check": "yes"
+}

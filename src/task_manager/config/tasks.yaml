@@ -1,0 +1,18 @@
+analyze_task:
+  description: >
+    Analyze task instructions and target person information.
+  expected_output: >
+    A complete and detailed analysis of the task instructions and target person information.
+  agent: task_analyzer
+
+generate_instructions:
+  description: >
+    Based on the analysis done by the Task Analyzer, generate a set of detailed instructions, including:
+    - Task Ticket
+    - List of Related Documents
+    - Suggestion on How to Complete the Task
+    - Recommended Tools
+    - Methods to Verify if the Person Understood the Task
+  expected_output: >
+    Detailed instructions for the specified task.
+  agent: instruction_generator

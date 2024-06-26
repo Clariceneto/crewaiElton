@@ -1,0 +1,7 @@
+python-dotenv
+crewai==0.32.2
+crewai-tools==0.3.0
+translate==3.6.1
+httpx==0.27.0
+openai==1.13.3
+embedchain==0.1.109
